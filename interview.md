@@ -1,0 +1,46 @@
+---
+layout: static
+title: Interview met Wubbo Ockels
+---
+
+Het kompas op elektrisch varen
+------------------------------
+Een klein berichtje in de krant trok afgelopen week de aandacht. Wubbo Ockels, natuurkundige, hoogleraar en Nederlands eerste ruimtevaarder, was op eigen initiatief een gesprek aangegaan met [TESO](http://www.teso.nl) bootdienst over zijn idee om de boten in de toekomst te laten varen op schone, groene energie. Het gesprek met directeur Cees de Waal en Mark Bakker van de technische dienst van TESO vond plaats tijdens een overtocht aan boord van de Dokter Wagemaker.
+
+Na zijn ruimtevlucht in 1985 was Ockels werkzaam bij ESTEC in Noordwijk. Vervolgens werd hij in 1992 als deeltijd hoogleraar aangesteld aan de faculteit Luchtvaart- en Ruimtevaarttechniek van de Technische Universiteit Delft. Sinds 1 september 2003 is zijn aanstelling gewijzigd tot voltijd hoogleraar Duurzame Technologie. Hij is bijzonder hoogleraar verbonden aan de Rijskuniversiteit Groningen. Ockels is al geruime tijd bezig met duurzame ontwikkelingen.
+
+Perspectief op de aarde
+-----------------------
+Ockels: "Ik was nog jong toen ik me al zorgen maakte over de toekomst van de aarde. Het  rapport van de Club van Rome uit 1972 heb ik uit den treuren gelezen  en de betekenis daarvan is heel diep bij mij ingedaald. Door mijn ruimtevlucht realiseerde ik me dat de aarde toch wel heel kwetsbaar is. Mijn perspectief is door deze reis veranderd. Ik zeg altijd dat de aarde een ruimteschip is met een romp van een heel dun laagje atmosfeer, die ons beschermt tegen de gevaren van de ruimte. Dat besef heeft me nog meer gemotiveerd om mijn bezorgdheid uit te dragen. We moeten goed zorgen voor onze planeet, anders gaat het mis en er is geen alternatief. Gelukkig merk ik dat ik mensen daarvan bewust kan maken. Ook studenten weet ik te inspireren. Ik ondersteun ze onder andere bij de ontwikkeling van de Nuna (zonne-auto)."
+
+Winnaars geven nooit op
+-----------------------
+Door andere projecten die hij aanslingerde, zoals de laddermolen - een innovatief idee om gebruik te maken van windenergie op grote hoogten en de elektrische Superbus, werd zijn autoriteit steeds sterker op het terrein van duurzaamheid. De projecten waaraan hij werkt zijn langdurig. Opvallend is dat hij zicht niet door tegenslag of weerstand laat ontmoedigen. Ockels: "Dat komt in eerste instantie door de aard van het beestje. Ik laat niet gauw los. Ik zeg altijd ‘winnaars geven nooit op en zij die opgeven winnen nooit’. Ik krijg ook veel energie van mensen als ik lezing houd. De aandacht die ik daarmee genereer, sterkt mij in wat ik doe. Het zij moeilijke projecten en ze duren lang, maar zo’n Superbus staat er dan wel en dat is toch megamooi. Met de ‘hoogvliegers’ experimenteren we volop op het voormalige vliegveld Valkenburg. De resultatten van die experimenten zijn   ook bemoedigend, ik zie straks vliegers die vissersschepen voorttrekken en energie geven aan de waddeneilanden".
+
+Vrachtwagen met accu’s
+----------------------
+Tijdens een netwerkdiner kwam hij in contact met mensen van de TESO. Vlak daarna heeft hij de telefoon gepakt en een afspraak gemaakt met Cees de Waal om te praten over het elektrificeren van de bootdienst. Ockels: "In het gesprek aan boord werd in eerste instantie aarzelend gereageerd op mijn idee. Ze vertelden me dat ze eigenlijk bezig waren met het ontwikkelen van een nieuw schip, waarvan het energieverbruik een stuk lager zou liggen. Het zal wel nog vele jaren duren voordat dit nieuwe schip er is. Ik heb toen uitgelegd dat mijn idee morgen zou kunnen worden uitgevoerd. TESO verbruikt de helft van het totale energieverbruik van Texel. De bootdienst vaart met moderne schepen die reeds gebruik maken van dieselelektrische aandrijving. Om zonder uitstoot te kunnen varen is een voorraad van elektrische energie nodig aan boord. Nu wordt deze geleverd door diesel generatoren. Diesel generatoren zijn zeker niet de beste manier om elektrische energie te maken, maar aan boord is er nu geen ander alternatief. Door de relatief korte vaartijden is de benodigde voorraad elektrische energie beperkt en dat geeft de mogelijkheid om deze voorraad op een mobiele manier te realiseren. Dat kan bijvoorbeeld met een mobiel accupakket, een lading accu’s op een vrachtwagen. De vrachtwagen rijdt aan boord en verleent de elektromotoren de energie voor de voortstuwing. Aangekomen aan de overkant, rijdt de gedeeltelijk ontladen vrachtwagen van boord en een andere, volgeladen vrachtwagen neemt zijn plaats in zodat de veerboot voldoende energie heeft om terug te keren. Je maakt dus gebruik van wat er al is, namelijk de mogelijkheid om aan en van boord te rijden. De vrachtauto’s dan worden weer opgeladen tijdens de periode op het land. De dieselgenerator aan boord vervult de functie van backup en kan worden ingezet als er behoefte is aan extra vermogen, bijvoorbeeld bij storm."
+Ockels: "Operationeel zou je kunnen beginnen met de overtochten waarvan de transportdekken niet geheel gevuld zijn, zodat door de extra vrachtwagen geen inkomstenderving plaatsvindt. Dit is bij 80% van de vaarten het geval. Er zijn 5.500 retourovertochten per jaar, waarbij per overtocht 700 kWh nominaal en zo’n 250 kWh voor versnellingen en vertragen wordt gebruikt, in totaal dus ongeveer 1MWh. Het totale verbruik van diesel per jaar is bijna 3 miljoen liter (kosten 2 miljoen euro, maar in de toekomst gaat deze prijs alleen maar omhoog). Het totale gebruikte aantal KWh’s is 11,000,000 kWh. De kWh prijs is daarmee uit te rekenen en komt neer op 0,2 euro/kWh. Groene stroom is al te koop voor 0,06 kWh. Natuurlijk treden er allerlei verliezen op bij het verbruik van de energie. Toch kun je zeggen dat er mogelijk een zeer gunstige business case is als een groot deel van de elektrische energie door accu’s wordt geleverd. Het is immers veel goedkoper om deze met groene stroom op te laden. Deze stroom kan onder andere door Greenchoice worden geleverd waardoor de effectieve CO2-uitstoot met één stap significant is verminderd. Een eenvoudige schatting laat dan zien dat de investering wellicht binnen een klein aantal jaren is terug verdiend".
+
+Duurzame energieproductie
+-------------------------
+Een andere mogelijkheid is dat het laadstation en de accupakketten onderdeel uitmaken van een overkoepelend systeem voor duurzame energieproductie op Texel. Het is voor een effectieve en duurzame productie van belang opslagcapaciteit te creëren. De zon schijnt immers niet ‘s nachts en wind is ook variabel. De door Ockels voorgestelde opslag heeft reeds een grootte die van belang is voor het hele eiland. Door de accupakketten aan het elektrische netwerk aan te sluiten ontstaat een belangrijke voorziening om het net te stabiliseren. Hiermee worden de extra kosten, die gepaard gaan bij inkoop van piekvermogen, verminderd. TESO kan een belangrijke aanjager zijn en klant worden van de duurzame energieproductie door Texel Energie. Volgens Ockels faciliteert TESO daarmee een versnelde invoering van de duurzame energieproductie op het eiland, en daar hebben alle Texelaars voordeel van. Ockels heeft een patent aangevraagd- en gekregen - op zijn idee voor een elektrische bootdienst. Ockels: "Dat heb ik in eerste instantie gedaan vanuit mijn trots als uitvinder en niet vanuit commercieel oogpunt. Ik wil er pas geld aan verdienen als er al verdiend wordt. Het mooiste zou zijn wanneer een stel Texelaars de uitvoering op zich neemt en van dit idee hun business maakt.
+Of jonge studenten van Texel die op dit project bij mij willen afstuderen. Zij kunnen dan gebruik maken van mijn expertise als hoogleraar. Texel is natuurlijk een van de mooiste plekken in Nederland voor duurzame ontwikkelingen. Heel veel zon en heel veel ruimte per inwoner. Als het idee voor de TESO gerealiseerd wordt zou het een mooi visitekaartje zijn voor het eiland." Volgens directeur Cees de Waal van TESO zal het niet bij het eerste bezoek van Ockels blijven. Er komt zeker een vervolgafspraak.
+
+Duurzaam Nederland
+------------------
+Optimisme is volgens Ockels een verantwoordelijkheid. Om geld te verdienen voor zijn projecten houdt hij tegen betaling lezingen voor industriën en bedrijven, soms ter inspiratie of doordat ze kennis en wetenschap willen delen. Ockels: "Ik ben op een missie en ik maak van mijn bekendheid gebruik om die missie te realiseren". Zo opende hij afgelopen zaterdag samen met Victoria Koblenko de Huishoudbeurs 2011 in Amsterdam. Ook hierbij liet hij het niet na de boodschap af te geven, waarin zijn zorg over het milieu en de aarde tot uitdrukking komt. En of dit allemaal nog niet genoeg is, is hij ook initiatiefnemer van de Stichting [NL2050](http://www.nl2050.nl), die streeft naar een 100% duurzaam Nederland in 2050. Hoofddoel is het aanbieden van een petitie aan de overheid om zo een duurzaam Nederland te eisen. Bijna 14.000 mensen hebben de petitie al ondertekend.
+
+
+
+**BRON: Texel Dit Weekend voor Texelaars en toerist.**
+
+*Wordt gratis huis-aan-huis verspreid (ca. 6500 huishoudens)*
+
+*3e jaargang nr. 7 vrijdag 18 februari 2011*
+
+*blz 10 en 11*
+
+*Tekst: Edwin Boering en Laura van Veller*
+
+*Foto: [Stefan Krofft](www.stefankrofft.nl)*
