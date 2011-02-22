@@ -3,6 +3,14 @@ layout: static
 title: Interview met Wubbo Ockels
 ---
 
+_**BRON: Texel Dit Weekend voor Texelaars en toerist.**_
+<br/>
+*Wordt gratis huis-aan-huis verspreid (ca. 6500 huishoudens)*
+<br/>
+*3e jaargang nr. 7 vrijdag 18 februari 2011 (blz 10 en 11)*
+<br/>
+*Tekst: Edwin Boering en Laura van Veller*
+
 Het kompas op elektrisch varen
 ------------------------------
 Een klein berichtje in de krant trok afgelopen week de aandacht. Wubbo Ockels, natuurkundige, hoogleraar en Nederlands eerste ruimtevaarder, was op eigen initiatief een gesprek aangegaan met [TESO](http://www.teso.nl) bootdienst over zijn idee om de boten in de toekomst te laten varen op schone, groene energie. Het gesprek met directeur Cees de Waal en Mark Bakker van de technische dienst van TESO vond plaats tijdens een overtocht aan boord van de Dokter Wagemaker.
@@ -30,17 +38,3 @@ Of jonge studenten van Texel die op dit project bij mij willen afstuderen. Zij k
 Duurzaam Nederland
 ------------------
 Optimisme is volgens Ockels een verantwoordelijkheid. Om geld te verdienen voor zijn projecten houdt hij tegen betaling lezingen voor industriën en bedrijven, soms ter inspiratie of doordat ze kennis en wetenschap willen delen. Ockels: "Ik ben op een missie en ik maak van mijn bekendheid gebruik om die missie te realiseren". Zo opende hij afgelopen zaterdag samen met Victoria Koblenko de Huishoudbeurs 2011 in Amsterdam. Ook hierbij liet hij het niet na de boodschap af te geven, waarin zijn zorg over het milieu en de aarde tot uitdrukking komt. En of dit allemaal nog niet genoeg is, is hij ook initiatiefnemer van de Stichting [NL2050](http://www.nl2050.nl), die streeft naar een 100% duurzaam Nederland in 2050. Hoofddoel is het aanbieden van een petitie aan de overheid om zo een duurzaam Nederland te eisen. Bijna 14.000 mensen hebben de petitie al ondertekend.
-
-
-
-**BRON: Texel Dit Weekend voor Texelaars en toerist.**
-
-*Wordt gratis huis-aan-huis verspreid (ca. 6500 huishoudens)*
-
-*3e jaargang nr. 7 vrijdag 18 februari 2011*
-
-*blz 10 en 11*
-
-*Tekst: Edwin Boering en Laura van Veller*
-
-*Foto: [Stefan Krofft](www.stefankrofft.nl)*
