@@ -11,4 +11,3 @@ Waarom is het [concept](concept.html) zo interessant om zo snel mogelijk te real
 * De uitvoering is simpel, praktisch en uitvoerbaar met de huidige technologie.
 * De TESO is potentieel een grote klant met uitzicht op langdurige continuïteit.
 * Het concept levert een substantiële bijdrage aan het doel: Texel in 2020 energieneutraal. Immers het energieverbruik van de TESO is ongeveer de helft van het totale energieverbruik van heel Texel.
-substantiele
