@@ -16,4 +16,4 @@ We zijn nog op zoek naar enthousiaste vrijwilligers! Vind jij het leuk om op 27 
 
 Zie ook de [flyer Texelectric Day](http://urgenda.nl/documents/urgenda_texelectric_v4.pdf) en [Urgenda](http://www.urgenda.nl).
 
-De Energiebespaarbeurs vindt tevens plaats op 27 en 28 mei, met op vrijdagavond de uitkomsten van de energiebespaarstrijd.
+De [Energiebespaarbeurs](http://www.texelenergie.nl/bespaarstrijd) vindt tevens plaats op 27 en 28 mei, met op vrijdagavond de uitkomsten van de energiebespaarstrijd.
